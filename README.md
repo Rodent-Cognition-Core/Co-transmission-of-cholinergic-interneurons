@@ -1,8 +1,6 @@
-# MouseBytes- Cognitive Behavioral Data from Touchscreen Technology
+# Co-transmission-of-cholinergic-interneurons: Mouse models that differ in neurotransmitter release from striatal cholinergic interneurons
 
-## Publication: Cholinergic dysfunction in the dorsal striatum promotes habit formation and maladaptive eating
-
-Here, you can find all the metadata that are common for the whole dataset and also the metadata associated to each csv file. 
+This dataset has data files from 5-Choice Serial Reaction Time (5-CSRT), Pairwise Visual Discrimination (PVD), and Extinction cognitive behavioral tasks for 4 mouse lines that differ in neurotransmitter release from striatal cholinergic interneurons (ACh or Glu). D2CreVGLUT3fx and ChATIRESVGLUT3fx mice and their wild-type controls were evaluated at 3-7 months of age in the PVD task to assess discrimination and reversal learning. Immediately after (still within 3-7 months of age) these same mice were evaluated using the Extinction task to assess their ability to extinguish a response. D2CreVAChTfx mice and their wild-type controls were evaluated at 5-7 months of age in the 5-CSRT task to assess attention. Immediately after (still within 3-7 months of age) these same mice were evaluated using the Extinction task. VAChTfx control mice that were virally injected with GFP or Cre in the dorsal striatum were evaluated at 6-12 months in the PVD task, followed by the 5-CSRT task (approximately at 8-14 months of age).
 
 ## COMMON METADATA:
 
