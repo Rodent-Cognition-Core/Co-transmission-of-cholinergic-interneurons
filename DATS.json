@@ -396,9 +396,14 @@
   ],
   "isAbout": [
     {
-      "name": "Cognitive behavioral data from co-transmission of cholinergic interneurons"
+      "identifier": {
+        "identifier": "10088",
+        "identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/10088"
+      },
+      "name":"Mus"
+
     }
-  ],
+  ]
   "keywords": [
     {
       "value": "cholinergic interneurons"
@@ -475,14 +480,6 @@
       "values": [
         {
           "value": "Marco Prado, mprado@robarts.ca"
-        }
-      ]
-    },
-    {
-      "category": "derivedFrom",
-      "values": [
-        {
-          "value": "Touchscreen Technology"
         }
       ]
     }
